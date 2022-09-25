@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-product-card-basic/static/css/main.b1e41306.css",
+    "main.js": "/react-product-card-basic/static/js/main.ea7fa315.js",
+    "index.html": "/react-product-card-basic/index.html",
+    "main.b1e41306.css.map": "/react-product-card-basic/static/css/main.b1e41306.css.map",
+    "main.ea7fa315.js.map": "/react-product-card-basic/static/js/main.ea7fa315.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1e41306.css",
+    "static/js/main.ea7fa315.js"
+  ]
+}
